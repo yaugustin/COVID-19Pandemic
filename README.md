@@ -1,2 +1,2 @@
-# COVID-19Pandemic
+# Coronavirus Disease 2019
  
