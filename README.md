@@ -39,7 +39,8 @@ Call 911 or call ahead to your local emergency facility: Notify the operater tha
 # Testing
 ## Testing for COVID-19
 [Guidence on interpretion COVID-19 Test Results:](https://www.whitehouse.gov/wp-content/uploads/2020/05/Testing-Guidance.pdf) A guide for interpreting test results and determining what actions to take.
-Two kinds of tests of if you have a current infection
+
+Two kinds of tests are available for COVID-19: [viral tests](https://www.cdc.gov/coronavirus/2019-ncov/testing/diagnostic-testing.html) and [antibody tests](https://www.cdc.gov/coronavirus/2019-ncov/testing/serology-overview.html)
 * A viral test tells you if you have a current infection.
 * An antibody tests tells you if you had a previous infection.
 An antibody test may or may not be able to show if you have a current infection, because it can take 1-3 weeks afer infection to make antibodies. We do not know yet if having antibodies to the virus can protect someone from getting infected with the virus again, or how long that protection might last.
