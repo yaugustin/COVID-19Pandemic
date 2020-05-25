@@ -43,6 +43,7 @@ Call 911 or call ahead to your local emergency facility: Notify the operater tha
 Two kinds of tests are available for COVID-19: [viral tests](https://www.cdc.gov/coronavirus/2019-ncov/testing/diagnostic-testing.html) and [antibody tests](https://www.cdc.gov/coronavirus/2019-ncov/testing/serology-overview.html)
 * A viral test tells you if you have a current infection.
 * An antibody tests tells you if you had a previous infection.
+
 An antibody test may or may not be able to show if you have a current infection, because it can take 1-3 weeks afer infection to make antibodies. We do not know yet if having antibodies to the virus can protect someone from getting infected with the virus again, or how long that protection might last.
 ## Who should be tested 
 To learn if you have a current infection, viral tests are used. But not everyone needs this test.
@@ -58,12 +59,15 @@ To learn if you have a current infection, viral tests are used. But not everyone
 If you test positive ir negative for COVID-19, no matter the type of test, you still should take preventative measure to [protect yourself and others](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html)
 
 **For healthcare professionals**
+
 For information on evaluation and testing, see [recommendations for reporting, testing, and specimen collection.](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html)
 
 **For public health professionals**
+
 For information on antibody surveillance, see [objectives and types of surveys.](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/serology-surveillance/index.html)
 
 **For laboratorians**
+
 For information on CDC viral and antibody testing, see information on [CDC lab tests.](https://www.cdc.gov/coronavirus/2019-nCoV/lab/index.html)
 
 ## More Information
@@ -88,6 +92,7 @@ To get your test result, please check with the group that performed your test, s
 * **If you test negative for COVID-19**, you probably were not infected at the time your sample was collected. However, that does not mean you will not get sick. It is possible that you were very early in your infection when your sample was collected and that you could test positive later. Or you could be exposed later and then develop illness. In other words, a negative test result does not mean you won’t get sick later. This means you could still spread the virus.
 
 **For healthcare professionals**
+
 For information on evaluating and testing, see [recommendations for reporting, testing, and specimen collection.](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html)
 
 ## More Information
@@ -118,6 +123,7 @@ Check with your healthcare provider to see if they offer antibody tests.
 * If you have [symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) and meet other [guidelines for testing](https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-criteria.html),you would need another type of test called a nucleic acid or [viral test](https://www.cdc.gov/coronavirus/2019-ncov/testing/diagnostic-testing.html).This test uses respiratory samples, such as a swab from inside your nose, to confirm COVID-19. An antibody test cannot tell if you are currently sick with COVID-19.
 
 **For healthcare professionals**
+
 For information on evaluating and testing for active infection, see [recommendations for reporting, testing, and specimen collection](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html).
 
 # CDC’s work in antibody testing
