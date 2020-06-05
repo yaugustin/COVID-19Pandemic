@@ -147,7 +147,7 @@ The virus is thought to spread mainly from person-to-person.
 * Through respiratory droplets produced when an infected person coughs, sneezes, or talks.
 * These droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs.
 * COVID-19 may be spread by people who are not showing symptoms.
-# The virus spreads easily between people
+## The virus spreads easily between people
 How easily a virus spreads from person-to-person can vary. Some viruses are highly contagious, like measles, while other viruses do not spread as easily. Another factor is whether the spread is sustained, which means it goes from person-to-person without stopping.
 
 **The virus that causes COVID-19 is spreading very easily and sustainably between people.** Information from the ongoing COVID-19 pandemic suggest that this virus is spreading more efficiently than influenza, but not as efficiently as measles, which is highly contagious.
@@ -155,10 +155,10 @@ How easily a virus spreads from person-to-person can vary. Some viruses are high
 # The virus may be spread in other ways
 It may be possible that a person can get COVID-19 by **touching a surface or object that has the virus on it** and then touching their own mouth, nose, or possibly their eyes. This is not thought to be the main way the virus spreads, but we are still learning more about how this virus spreads.
 
-# Spread between animals and people
+## Spread between animals and people
 * At this time, the risk of COVID-19 spreading from animals to people is considered to be low. Learn about [COVID-19 and pets and other animals.](https://www.cdc.gov/coronavirus/2019-ncov/animals/pets-other-animals.html)
 * It appears that the virus that causes COVID-19 can spread **from people to animals** in some situations. CDC is aware of a small number of pets worldwide, including cats and dogs, reported to be infected with the virus that causes COVID-19, mostly after close contact with people with COVID-19. Learn what you should do [if you have pets.](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/pets.html)
-# Protect yourself and others
+## Protect yourself and others
 **The best way to prevent illness is to avoid being exposed to this virus.** You can take steps to slow the spread.
 * [Maintain good social distance](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/social-distancing.html) (about 6 feet). This is very important in preventing the spread of COVID-19.
 * [Wash your hands](https://www.cdc.gov/handwashing/when-how-handwashing.html) often with soap and water. If soap and water are not available, use a hand sanitizer that contains at least 60% alcohol.
