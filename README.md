@@ -238,9 +238,11 @@ cover is not a substitute for social distancing.
 Keep Your Distance to Slow the Spread
 
 Limiting face-to-face contact with others is the best way to reduce the spread of coronavirus disease 2019 (COVID-19).
+
 **What is social distancing?**
 
 ![What is social distancing](https://www.cdc.gov/coronavirus/2019-ncov/images/COVIDweb_avoidCloseContact_masks_rect-01.png)
+
 
 Social distancing, also called “physical distancing,” means keeping space between yourself and other people outside of your home. To practice social or physical distancing:
 
