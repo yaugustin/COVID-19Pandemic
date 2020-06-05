@@ -239,6 +239,7 @@ Keep Your Distance to Slow the Spread
 
 Limiting face-to-face contact with others is the best way to reduce the spread of coronavirus disease 2019 (COVID-19).
 **What is social distancing?**
+
 ![What is social distancing](https://www.cdc.gov/coronavirus/2019-ncov/images/COVIDweb_avoidCloseContact_masks_rect-01.png)
 
 Social distancing, also called “physical distancing,” means keeping space between yourself and other people outside of your home. To practice social or physical distancing:
@@ -258,7 +259,7 @@ Many people have personal circumstances or situations that present challenges wi
 * [People with Disabilities](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-disabilities.html)
 * [People Experiencing Homelessness](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/homelessness.html)
 
-If you have been exposed or are sick
+**If you have been exposed or are sick**
 * [Separate from others to limit the spread of COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/quarantine-isolation.html)
 * [Take care of yourself while you’re sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
 
@@ -293,7 +294,9 @@ If you, or someone you care about, are feeling overwhelmed with emotions like sa
 
 ## More Information
 [How to Protect Yourself](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html)
+
 [Cleaning and Disinfecting Your Home](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html)
+
 [Gatherings and Community Events](https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/index.html)
 
 
