@@ -139,6 +139,164 @@ CDC is conducting [serologic surveillance](https://www.cdc.gov/coronavirus/2019-
 
 CDC is supporting [state, local, tribal and territorial laboratory capacity](https://www.cdc.gov/coronavirus/2019-ncov/php/open-america/laboratory.html)
 
+# How It Spreads
+COVID-19 is thought to spread mainly through close contact from person-to-person. Some people without symptoms may be able to spread the virus. We are still learning about how the virus spreads and the severity of illness it causes.
+## Person-to-person spread
+The virus is thought to spread mainly from person-to-person.
+* Between people who are in close contact with one another (within about 6 feet).
+* Through respiratory droplets produced when an infected person coughs, sneezes, or talks.
+* These droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs.
+* COVID-19 may be spread by people who are not showing symptoms.
+# The virus spreads easily between people
+How easily a virus spreads from person-to-person can vary. Some viruses are highly contagious, like measles, while other viruses do not spread as easily. Another factor is whether the spread is sustained, which means it goes from person-to-person without stopping.
+
+**The virus that causes COVID-19 is spreading very easily and sustainably between people.** Information from the ongoing COVID-19 pandemic suggest that this virus is spreading more efficiently than influenza, but not as efficiently as measles, which is highly contagious.
+
+# The virus may be spread in other ways
+It may be possible that a person can get COVID-19 by **touching a surface or object that has the virus on it** and then touching their own mouth, nose, or possibly their eyes. This is not thought to be the main way the virus spreads, but we are still learning more about how this virus spreads.
+
+# Spread between animals and people
+* At this time, the risk of COVID-19 spreading from animals to people is considered to be low. Learn about [COVID-19 and pets and other animals.](https://www.cdc.gov/coronavirus/2019-ncov/animals/pets-other-animals.html)
+* It appears that the virus that causes COVID-19 can spread **from people to animals** in some situations. CDC is aware of a small number of pets worldwide, including cats and dogs, reported to be infected with the virus that causes COVID-19, mostly after close contact with people with COVID-19. Learn what you should do [if you have pets.](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/pets.html)
+# Protect yourself and others
+**The best way to prevent illness is to avoid being exposed to this virus.** You can take steps to slow the spread.
+* [Maintain good social distance](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/social-distancing.html) (about 6 feet). This is very important in preventing the spread of COVID-19.
+* [Wash your hands](https://www.cdc.gov/handwashing/when-how-handwashing.html) often with soap and water. If soap and water are not available, use a hand sanitizer that contains at least 60% alcohol.
+* [Routinely clean and disinfect](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html)frequently touched surfaces.
+
+Learn more about what you can do to [protect yourself and others.](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html)
+
+## More Information
+[ASL Video Series: How does COVID-19 Spread?](https://www.youtube.com/watch?v=m4gborCUztk&list=PLvrp9iOILTQatwnqm61jqFrsfUB4RKh6J&index=7&t=0s)
+
+# Protect Yourself
+**Older adults and people who have severe underlying medical conditions** like heart or lung disease or diabetes seem to be at higher risk for developing serious complications from COVID-19 illness. More information on [Are you at higher risk for serious illness.](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-at-higher-risk.html)
+## Know how it spreads  
+* There is currently no vaccine to prevent coronavirus disease 2019 (COVID-19).
+* **The best way to prevent illness is to avoid being exposed to this virus.**
+* The virus is thought to [spread mainly from person-to-person.](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html)
+   * Between people who are in close contact with one another (within about 6 feet)
+   * Through respiratory droplets produced when an infected person coughs, sneezes or talks.
+   * These droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs.
+   * Some recent studies have suggested that COVID-19 may be spread by people who are not showing symptoms.
+## Everyone Should
+**Wash your hands often**
+* [Wash your hands](https://www.cdc.gov/handwashing/when-how-handwashing.html) often with soap and water for at least 20 seconds especially after you have been in a public place, or after blowing your nose, coughing, or sneezing.
+* If soap and water are not readily available, use a hand sanitizer that contains at least 60% alcohol. Cover all surfaces of your hands and rub them together until they feel dry.
+* Avoid touching your eyes, nose, and mouth with unwashed hands.
+**Avoid close contact**
+* **Avoid close contact with people who are sick, even inside your home.** If possible, maintain 6 feet between the person who is sick and other household members.
+* **Put distance between yourself and other people outside of your home.**
+   * Remember that some people without symptoms may be able to spread virus.
+   * [Stay at least 6 feet (about 2 arms’ length) from other people.](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/social-distancing.html)
+   * Do not gather in groups.
+   * Stay out of crowded places and avoid mass gatherings.
+   * Keeping distance from others is especially important for [people who are at higher risk of getting very sick.](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-at-higher-risk.html)
+
+**Cover your mouth and nose with a cloth face cover when around others**
+* You could spread COVID-19 to others even if you do not feel sick.
+* Everyone should wear a [cloth face cover](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html) when they have to go out in public, for example to the grocery store or to pick up other necessities.
+   * Cloth face coverings should not be placed on young children under age 2,  anyone who has trouble breathing, or is unconscious, incapacitated or otherwise unable to remove the mask without assistance.
+* The cloth face cover is meant to protect other people in case you are infected.
+* Do NOT use a facemask meant for a healthcare worker.
+* Continue to keep about 6 feet between yourself and others. The cloth face 
+cover is not a substitute for social distancing.
+
+**Cover coughs and sneezes**
+* **If you are in a private setting and do not have on your cloth face covering, remember to always cover your mouth and nose** with a tissue when you cough or sneeze or use the inside of your elbow.
+* **Throw used tissues** in the trash.
+* Immediately **wash your hands** with soap and water for at least 20 seconds. If soap and water are not readily available, clean your hands with a hand sanitizer that contains at least 60% alcohol.
+
+**Clean and disinfect**
+* **Clean AND disinfect[frequently touched surfaces](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html) daily.** This includes tables, doorknobs, light switches, countertops, handles, desks, phones, keyboards, toilets, faucets, and sinks.
+* **If surfaces are dirty, clean them.** Use detergent or soap and water prior to disinfection.
+* **Then, use a household disinfectant.** Most common [EPA-registered household disinfectant](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2-covid-19)will work.
+
+**Monitor Your Health**
+* **Be alert for symptoms.** Watch for fever, cough, shortness of breath, or [other symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) of COVID-19.
+  * Especially important if you are [running essential errands,](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/essential-goods-services.html) going into the office or workplace, and in settings where it may be difficult to keep a [physical distance of 6 feet.](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/social-distancing.html)
+* **Take your temperature** if symptoms develop.
+  * Don’t take your temperature within 30 minutes of exercising or after taking medications that could lower your temperature, like acetaminophen.
+* Follow [CDC guidance](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html) if symptoms develop.
+
+## More information
+* [Symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html)
+* [What to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
+* [If someone in your house gets sick](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/checklist-household-ready.html)
+* Frequently asked questions(https://www.cdc.gov/coronavirus/2019-ncov/faq.html)
+* Travelers(https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html)
+* Individuals, schools, events, businesses and more(https://www.cdc.gov/coronavirus/2019-ncov/community/index.html)
+* Healthcare Professionals(https://www.cdc.gov/coronavirus/2019-ncov/hcp/index.html)
+* 6 Steps to Prevent COVID-19(https://www.youtube.com/watch?v=9Ay4u7OYOhA&list=PLvrp9iOILTQaJa78zFQ0QgvShQ2HEwHxP&index=5&t=3s)
+* 6 Steps to Prevent COVID-19 (ASL Version)(https://www.youtube.com/watch?v=wkaMC2Fipgg&list=PLvrp9iOILTQatwnqm61jqFrsfUB4RKh6J&index=3&t=0s)
+* Social Distancing (ASL Video)(https://www.youtube.com/watch?v=3KFHhEta68o&list=PLvrp9iOILTQatwnqm61jqFrsfUB4RKh6J&index=2&t=0s)
+* ASL Video Series: What You Need to Know About Handwashing(https://www.youtube.com/watch?v=J6XaDkMD2NM&list=PLvrp9iOILTQatwnqm61jqFrsfUB4RKh6J&index=10&t=0s)
+
+# **Social Distancing**
+Keep Your Distance to Slow the Spread
+
+Limiting face-to-face contact with others is the best way to reduce the spread of coronavirus disease 2019 (COVID-19).
+**What is social distancing?**
+![What is social distancing](https://www.cdc.gov/coronavirus/2019-ncov/images/COVIDweb_avoidCloseContact_masks_rect-01.png)
+
+Social distancing, also called “physical distancing,” means keeping space between yourself and other people outside of your home. To practice social or physical distancing:
+
+* Stay at least 6 feet (about 2 arms’ length) from other people
+* Do not gather in groups
+* Stay out of crowded places and avoid mass gatherings
+
+In addition to [everyday steps to prevent COVID-19,](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html) keeping space between you and others is one of the best tools we have to avoid being exposed to this virus and slowing its spread locally and across the country and world.
+
+Limit close contact with others outside your household in indoor and outdoor spaces. Since people can spread the virus before they know they are sick, it is important to stay away from others when possible, even if you—or they—have no symptoms. Social distancing is especially important for [people who are at higher risk](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-at-higher-risk.html)for severe illness from COVID-19.
+
+Many people have personal circumstances or situations that present challenges with practicing social distancing to prevent the spread of COVID-19.  Please see the following guidance for additional recommendations and considerations for:
+
+* [Households Living in Close Quarters: How to Protect Those Who Are Most Vulnerable](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/living-in-close-quarters.html)
+* [Living in Shared Housing](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/shared-housing/index.html)
+* [People with Disabilities](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-disabilities.html)
+* [People Experiencing Homelessness](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/homelessness.html)
+
+If you have been exposed or are sick
+* [Separate from others to limit the spread of COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/quarantine-isolation.html)
+* [Take care of yourself while you’re sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
+
+## Why practice social distancing?
+COVID-19 spreads mainly among people who are in close contact (within about 6 feet) for a prolonged period. Spread happens when an infected person coughs, sneezes, or talks, and droplets from their mouth or nose are launched into the air and land in the mouths or noses of people nearby. The droplets can also be inhaled into the lungs. Recent studies indicate that people who are infected but do not have symptoms likely also play a role in the spread of COVID-19.
+
+It may be possible that a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or eyes. However, this is not thought to be the main way the virus spreads. COVID-19 can live for hours or days on a surface, depending on factors such as sunlight, humidity, and the type of surface. Social distancing helps limit opportunities to come in contact with contaminated surfaces and infected people outside the home.
+
+Although the risk of severe illness may be different for everyone, anyone can get and spread COVID-19. Everyone has a role to play in slowing the spread and protecting themselves, their family, and their community.
+
+## Tips for social distancing
+* Follow guidance from authorities where you live.
+* If you need to shop for food or medicine at the grocery store or pharmacy, stay at least 6 feet away from others. Also consider other options:
+  * Use mail-order for medications, if possible.
+  * Consider a grocery delivery service.
+* Cover your mouth and nose with a [cloth face covering](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html) when around others, including when you have to go out in public, for example to the grocery store.
+  * Cloth face coverings should NOT be placed on children under age 2, anyone who has trouble breathing, or is unconscious, incapacitated, or otherwise unable to remove the mask without assistance.
+  * Keep at least 6 feet between yourself and others, even when you wear a face covering.
+* Avoid gatherings of any size outside your household, such as a friend’s house, parks, restaurants, shops, or any other place. This advice applies to people of any age, including teens and younger adults. Children should not have in-person playdates while school is out. To help maintain social connections while social distancing, [learn tips to keep children healthy while school’s out.](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/children.html)
+* Work from home when possible. See additional information for [critical infrastructure workforce](https://www.cisa.gov/critical-infrastructure-sectors)from Cybersecurity and Infrastructure Security Agency (CISA).
+* Limit using any kind of public transportation, ridesharing, or taxis, if possible. If you must use public transportation, [follow these tips to protect yourself.](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/using-transportation.html)
+* If you are a student or parent, talk to your school about options for digital/distance learning.
+
+**Stay connected while staying away.** It is very important to stay in touch with friends and family that don’t live in your home. Call, video chat, or stay connected using social media. Everyone reacts differently to stressful situations and having to socially distance yourself from someone you love can be difficult. [Read tips for stress and coping.](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html)
+
+## Need help? Know someone who does?
+If you, or someone you care about, are feeling overwhelmed with emotions like sadness, depression, or anxiety, or feel like you want to harm yourself or others
+
+* Call 911
+* Visit the [Disaster Distress Helpline](https://www.samhsa.gov/disaster-preparedness) call 1-800-985-5990, or text TalkWithUs to 66746
+* Visit the [National Domestic Violence Hotline](https://www.thehotline.org)or call 1-800-799-7233 and TTY 1-800-787-3224
+
+## More Information
+[How to Protect Yourself](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html)
+[Cleaning and Disinfecting Your Home](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html)
+[Gatherings and Community Events](https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/index.html)
+
+
+
+
 
 
 
