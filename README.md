@@ -184,7 +184,9 @@ Learn more about what you can do to [protect yourself and others.](https://www.c
 * [Wash your hands](https://www.cdc.gov/handwashing/when-how-handwashing.html) often with soap and water for at least 20 seconds especially after you have been in a public place, or after blowing your nose, coughing, or sneezing.
 * If soap and water are not readily available, use a hand sanitizer that contains at least 60% alcohol. Cover all surfaces of your hands and rub them together until they feel dry.
 * Avoid touching your eyes, nose, and mouth with unwashed hands.
+
 **Avoid close contact**
+
 * **Avoid close contact with people who are sick, even inside your home.** If possible, maintain 6 feet between the person who is sick and other household members.
 * **Put distance between yourself and other people outside of your home.**
    * Remember that some people without symptoms may be able to spread virus.
@@ -208,7 +210,7 @@ cover is not a substitute for social distancing.
 * Immediately **wash your hands** with soap and water for at least 20 seconds. If soap and water are not readily available, clean your hands with a hand sanitizer that contains at least 60% alcohol.
 
 **Clean and disinfect**
-* **Clean AND disinfect[frequently touched surfaces](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html) daily.** This includes tables, doorknobs, light switches, countertops, handles, desks, phones, keyboards, toilets, faucets, and sinks.
+* **Clean AND disinfect [frequently touched surfaces](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html) daily.** This includes tables, doorknobs, light switches, countertops, handles, desks, phones, keyboards, toilets, faucets, and sinks.
 * **If surfaces are dirty, clean them.** Use detergent or soap and water prior to disinfection.
 * **Then, use a household disinfectant.** Most common [EPA-registered household disinfectant](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2-covid-19)will work.
 
@@ -223,14 +225,14 @@ cover is not a substitute for social distancing.
 * [Symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html)
 * [What to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
 * [If someone in your house gets sick](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/checklist-household-ready.html)
-* Frequently asked questions(https://www.cdc.gov/coronavirus/2019-ncov/faq.html)
-* Travelers(https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html)
-* Individuals, schools, events, businesses and more(https://www.cdc.gov/coronavirus/2019-ncov/community/index.html)
-* Healthcare Professionals(https://www.cdc.gov/coronavirus/2019-ncov/hcp/index.html)
-* 6 Steps to Prevent COVID-19(https://www.youtube.com/watch?v=9Ay4u7OYOhA&list=PLvrp9iOILTQaJa78zFQ0QgvShQ2HEwHxP&index=5&t=3s)
-* 6 Steps to Prevent COVID-19 (ASL Version)(https://www.youtube.com/watch?v=wkaMC2Fipgg&list=PLvrp9iOILTQatwnqm61jqFrsfUB4RKh6J&index=3&t=0s)
-* Social Distancing (ASL Video)(https://www.youtube.com/watch?v=3KFHhEta68o&list=PLvrp9iOILTQatwnqm61jqFrsfUB4RKh6J&index=2&t=0s)
-* ASL Video Series: What You Need to Know About Handwashing(https://www.youtube.com/watch?v=J6XaDkMD2NM&list=PLvrp9iOILTQatwnqm61jqFrsfUB4RKh6J&index=10&t=0s)
+* [Frequently asked questions](https://www.cdc.gov/coronavirus/2019-ncov/faq.html)
+* [Travelers](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html)
+* [Individuals, schools, events, businesses and more](https://www.cdc.gov/coronavirus/2019-ncov/community/index.html)
+* [Healthcare Professionals](https://www.cdc.gov/coronavirus/2019-ncov/hcp/index.html)
+* [6 Steps to Prevent COVID-19](https://www.youtube.com/watch?v=9Ay4u7OYOhA&list=PLvrp9iOILTQaJa78zFQ0QgvShQ2HEwHxP&index=5&t=3s)
+* [6 Seps to Prevent COVID-19(ASL Version)](https://www.youtube.com/watch?v=wkaMC2Fipgg&list=PLvrp9iOILTQatwnqm61jqFrsfUB4RKh6J&index=3&t=0s)
+* [Social Distancing (ASL Video)](https://www.youtube.com/watch?v=3KFHhEta68o&list=PLvrp9iOILTQatwnqm61jqFrsfUB4RKh6J&index=2&t=0s)
+* [ASL Video Series: What You Need to Know About Handwashing](https://www.youtube.com/watch?v=J6XaDkMD2NM&list=PLvrp9iOILTQatwnqm61jqFrsfUB4RKh6J&index=10&t=0s)
 
 # **Social Distancing**
 Keep Your Distance to Slow the Spread
