@@ -1,8 +1,5 @@
-* [Symptoms - of - Coronavirus](#Symptoms)
-  * What you need to know
-  * Watch for symptoms
-  * When to seek Medical Attention
-  * 
+* [Symptoms of Coronavirus](#Symptoms)
+  
 
 
 
