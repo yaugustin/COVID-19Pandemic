@@ -1,6 +1,16 @@
-* [Symptoms of Coronavirus](#Symptoms)
-  * [What you need to know](#Know)
-  * [Watch for symptoms](#Watch)
+* [Symptoms of Coronavirus](SymptomsofCoronavirus)
+  * [What you need to know](#WhatyouneedtoKnow)
+  * [Watch for symptoms](#Watchfor symptoms)
+  * [When to Seek Emergency Medical Attention](#WhentoSeekEmergencyMedicalAAttention)
+  * [Caring for yourself or others](#Caringforyourselforothers)
+  * [More Information about Symptoms](#MoreInformationaboutSymptoms)
+* [Testing](#Testing)
+  * [Testing for COVID-19](#TestingforCOVID-19)
+    * [Who should be tested](#Whoshouldbetested)
+    * [Results](#Results)
+      * [Results for healthcare professionals](#Resultsforhealthcareprofessionals)
+      * [For Public health officials](#Forpublichealthofficials)
+      * [For laboratorians](#Forlaboratorians)
 
 
 
