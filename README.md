@@ -1,5 +1,32 @@
 * [Symptoms of Coronavirus](#Symptoms)
-  
+  * [What you need to know](#Know)
+  * [Watch for symptoms](#Watch)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
