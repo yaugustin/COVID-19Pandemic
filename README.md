@@ -1,6 +1,6 @@
-* [Symptoms of Coronavirus](SymptomsofCoronavirus)
+* [Symptoms of Coronavirus](#SymptomsofCoronavirus)
   * [What you need to know](#WhatyouneedtoKnow)
-  * [Watch for symptoms](#Watchfor symptoms)
+  * [Watch for symptoms](#Watchforsymptoms)
   * [When to Seek Emergency Medical Attention](#WhentoSeekEmergencyMedicalAAttention)
   * [Caring for yourself or others](#Caringforyourselforothers)
   * [More Information about Symptoms](#MoreInformationaboutSymptoms)
@@ -11,6 +11,16 @@
       * [Results for healthcare professionals](#Resultsforhealthcareprofessionals)
       * [For Public health officials](#Forpublichealthofficials)
       * [For laboratorians](#Forlaboratorians)
+    * [More Information about Testing for COVID-19](#MoreInformationaboutTestingforCOVID-19)
+  * [Test for Current Infection](#Testforcurrentinfection)
+    * [How to get an antibody test](#Howtogetanantibodytest)
+      * [If you test positive](#Ifyoutestpositive)
+      * [If you test negative](#Ifyoutestnegative)
+      * [Antibody test for healthcare professionals](#Antibodytestforhealthcareprofessionals)
+    * [CDC's work in antibody testing](#CDC'sworkinantibodytesting)
+      * [CDC is evaluating commercial testing](#CDCisevaluatingcommercialtesting)
+      * []
+
 
 
 
