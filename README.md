@@ -1,4 +1,4 @@
-#Table of Contents 
+# Table of Contents 
 
 * [Symptoms of Coronavirus](#SymptomsofCoronavirus)
   * [What you need to know](#WhatyouneedtoKnow)
