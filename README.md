@@ -1,3 +1,5 @@
+#Table of Contents 
+
 * [Symptoms of Coronavirus](#SymptomsofCoronavirus)
   * [What you need to know](#WhatyouneedtoKnow)
   * [Watch for symptoms](#Watchforsymptoms)
@@ -19,59 +21,32 @@
       * [Antibody test for healthcare professionals](#Antibodytestforhealthcareprofessionals)
     * [CDC's work in antibody testing](#CDC'sworkinantibodytesting)
       * [CDC is evaluating commercial testing](#CDCisevaluatingcommercialtesting)
-      * []
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+      * [CDC is conducting serologic surveiliance](#CDCisconductingserologicsurveiliance)
+* [How COVID-19 spreads](#HowCOVID-19spreads)
+  * [Person-to-person spread](#Person-to-personspread)
+  * [The virus spreads easily between people](#Thevirusspreadseasilybetweenpeople) 
+  * [The virus may be spread in other ways](#Thevirusmaybespreadinotherways)
+  * [Spread between animals and people](#Spreadbetweenanimalsandpeople)
+  * [Protect yourself and others](#Protectyourselfandothers)
+  * [More Information about how COVID-19 spreads](#MoreinformationabouthowCOVID-19spreads)
+* [How to protect yourself & others](#Howtoprotectyourself&others)
+  * [Know how it spreads](#Knowhowitspreads
+  * [Everyoneshould](#Everyoneshould)
+    * [Hands](#Washyourhandsoften)
+    * [Avoid](#Avoidclosecontact)
+    * [Cover mouth](#Coveryourmouthandnosewithaclothfacecoverwhenaroundothers)
+    * [Cover cough](#Covercoughsandsneezes)
+    * [Clean and disinfect](#Cleananddisinfect)
+    * [Moniter your health](#Moniteryourhealth)
+  * [Handwashing Resources](#Handwashingresources)
+  * [More Information about how to protect yourself & others](#MoreInformationabouthowtoprotectyourself&others)
+* [Social](#SocialDistancing)
+  * [distance](#Whatissocialdistancing)
+    * [exposed](#Ifyouhavebeenexposedor aresick)
+  * [practice](#Whypracticesocialdistancing)
+  * [Tips](#Tipsforsocialdistancing)
+  * [Need help? Know someone who does?](#Needhelp?Knowsomeonewhodoes?)
+  * [More Information about Social Distancing](#MoreInformationaboutsocialdistancing)
 
 
 
